@@ -68,7 +68,7 @@ export default function ContactSection() {
         </svg>
       ),
       label: "Téléphone",
-      value: "(+243) 855 248 739 | 81 070 71 08 | 999 977 011",
+      value: "(+243) 81 070 71 08 | 999 977 011 |+32 465 62 34 82",
     },
     {
       icon: (
